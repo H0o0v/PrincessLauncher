@@ -1,0 +1,465 @@
+{
+  "name": "Princess",
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "neoforge",
+    "version": "21.1.219"
+  },
+  "server": {
+    "host": "princessmc.kro.kr",
+    "port": 31482
+  },
+  "theme": {
+    "preset": "cozy"
+  },
+  "newsUrl": "https://princess-news.hooooov.workers.dev/",
+  "managed": [
+    "mods"
+  ],
+  "keep": [
+    "config",
+    "options.txt"
+  ],
+  "files": [
+    {
+      "path": "config/accessories.json5",
+      "sha1": "dd0b30eec8a3de68c1b9141ec062a6b1c4bc767c",
+      "size": 919
+    },
+    {
+      "path": "config/aether-client.toml",
+      "sha1": "ef032d97af827adab1379be6c4b06952c430bc09",
+      "size": 3611
+    },
+    {
+      "path": "config/aether-common.toml",
+      "sha1": "f8d4511c82fcbb718928ad4066b61a24ee7fe718",
+      "size": 1402
+    },
+    {
+      "path": "config/aether-server.toml",
+      "sha1": "0819fe0d5d74fc19e8f7b0e27d4f8421fc2d14c7",
+      "size": 3793
+    },
+    {
+      "path": "config/aether-startup.toml",
+      "sha1": "4a02328ed24ee0b4c0b2f1069264508d92eef584",
+      "size": 104
+    },
+    {
+      "path": "config/aether/aether_customizations.txt",
+      "sha1": "b9f71c03578eef752fe3c401112845574529aef1",
+      "size": 84
+    },
+    {
+      "path": "config/aether/sun_altar_whitelist.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "size": 2
+    },
+    {
+      "path": "config/azurelib.json",
+      "sha1": "8d3a7a574d27084e8c09c84aa4256044b6955558",
+      "size": 30
+    },
+    {
+      "path": "config/cataclysm-client.toml",
+      "sha1": "8e561fe4808fc5b428a05abc06f58b10eea636a5",
+      "size": 477
+    },
+    {
+      "path": "config/cataclysm-common.toml",
+      "sha1": "81de0f57da0f80d04b295e73582e71bb144fb919",
+      "size": 30666
+    },
+    {
+      "path": "config/caxton.json",
+      "sha1": "616eab4ff9110d3584a1a4f388b772840557ecaf",
+      "size": 180
+    },
+    {
+      "path": "config/cumulus_menus-client.toml",
+      "sha1": "c968c54265e8db5ac0498566f535ae01603d011f",
+      "size": 749
+    },
+    {
+      "path": "config/curios-client.toml",
+      "sha1": "7e66e02fbf04b28e7de60c4e675d2b5168be5ec6",
+      "size": 766
+    },
+    {
+      "path": "config/curios-common.toml",
+      "sha1": "2805359d4ad1ce08ef52cc73f84a96dafdc41024",
+      "size": 159
+    },
+    {
+      "path": "config/curios-server.toml",
+      "sha1": "8ccde45d5edd3767324231935fe07ac2318a0eb5",
+      "size": 483
+    },
+    {
+      "path": "config/deeperdarker-common.toml",
+      "sha1": "24341283bedcbfda0a3c079cf23044d0b2db9c71",
+      "size": 854
+    },
+    {
+      "path": "config/fml.toml",
+      "sha1": "f941986270fa9a8a64b9fad25fb2b1f61568cd2b",
+      "size": 1551
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+      "size": 31
+    },
+    {
+      "path": "config/iris.properties",
+      "sha1": "0f18124b0dafc5261667d271758d3fb064342c7e",
+      "size": 304
+    },
+    {
+      "path": "config/iteminteractions-client.toml",
+      "sha1": "7db80eae2de47970b9686c1bae813361a20b528f",
+      "size": 2234
+    },
+    {
+      "path": "config/iteminteractions-server.toml",
+      "sha1": "bf3be8c6ce037e81aed87907a0515c51a2c04846",
+      "size": 739
+    },
+    {
+      "path": "config/mobs_of_mythology.properties",
+      "sha1": "b012550fa3f94484d3f0f5a015666503a35ee853",
+      "size": 2209
+    },
+    {
+      "path": "config/mowziesmobs-client.toml",
+      "sha1": "35672ec497330e7ef0143aa9ff5f0daccab3bd92",
+      "size": 980
+    },
+    {
+      "path": "config/mowziesmobs-common.toml",
+      "sha1": "47b8f982b6888b1759ed6abbce70221588c51c64",
+      "size": 34648
+    },
+    {
+      "path": "config/neoforge-client.toml",
+      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+      "size": 578
+    },
+    {
+      "path": "config/neoforge-common.toml",
+      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
+      "size": 772
+    },
+    {
+      "path": "config/neoforge-server.toml",
+      "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
+      "size": 1177
+    },
+    {
+      "path": "config/princessaio.json",
+      "sha1": "06ac5dcbc0b783d0bbd15d849ae01528fb68a552",
+      "size": 190
+    },
+    {
+      "path": "config/princessmotion-client.toml",
+      "sha1": "f51092c69ab0ad207ac44220f5ee78f1a7376eed",
+      "size": 439
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "sha1": "271b9c974e7f22f8d357b9b17dadcaa4350eb77b",
+      "size": 427
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+      "size": 258
+    },
+    {
+      "path": "config/sodium-options.json",
+      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa",
+      "size": 761
+    },
+    {
+      "path": "config/twilightforest-client.toml",
+      "sha1": "cee8c23776f9d5e15e880e1c6b759397cbd8f1d2",
+      "size": 1999
+    },
+    {
+      "path": "config/twilightforest-common.toml",
+      "sha1": "5fe61b124ca912f0e0a991499a11938a8da9bd44",
+      "size": 9324
+    },
+    {
+      "path": "config/undergroundworlds-common.toml",
+      "sha1": "fcefa013bc5007fd730b2449ea3d5acd39d2bd67",
+      "size": 6501
+    },
+    {
+      "path": "config/voicechat/category-volumes.properties",
+      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+      "size": 46
+    },
+    {
+      "path": "config/voicechat/player-volumes.properties",
+      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+      "size": 44
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "size": 1182
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "sha1": "005aa71bccb9a9d2717b8ec7ffad36e8ddc1476a",
+      "size": 4899
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "sha1": "cf23056ff63a574ebd9ed157db72ced6de6b79e1",
+      "size": 2442
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+      "size": 26
+    },
+    {
+      "path": "config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+      "size": 236
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+      "size": 121
+    },
+    {
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "sha1": "13af59808b65137743704608a462232e3ab5e375",
+      "size": 237
+    },
+    {
+      "path": "config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+      "size": 147
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "3523d6db6b0543a9de55286e914bc748f7fc68d9",
+      "size": 5531
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51",
+      "size": 4597
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "sha1": "71f90e714ca44c4ddaea1a2fec5ff54ca37d8f60",
+      "size": 3649
+    },
+    {
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
+      "size": 684
+    },
+    {
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "size": 75
+    },
+    {
+      "path": "config/xaerohud.txt",
+      "sha1": "8ac60b0520871a204bd0bcd6da40cc95cf8fa7df",
+      "size": 122
+    },
+    {
+      "path": "config/xaerominimap-common.txt.backup0",
+      "sha1": "9dfa008f15d138e34b337e8e67122ea0364b67c0",
+      "size": 145
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "mods/3d_placeable_food-2.4.0-neoforge-1.21.1.jar",
+      "sha1": "512dd02aa5c4f819e667eb50cec6d6c7114bd0a7",
+      "size": 4992416
+    },
+    {
+      "path": "mods/aether-1.21.1-1.5.10-neoforge.jar",
+      "sha1": "9fc773525f3572f8719e9720d8642576c155b629",
+      "size": 40445713
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "size": 584004
+    },
+    {
+      "path": "mods/azurelib-neo-1.21.1-3.0.2.jar",
+      "sha1": "84dab550394c7d801c16f05e375204c8d90932a9",
+      "size": 1327051
+    },
+    {
+      "path": "mods/bloodmooncompanion-1.0.0.jar",
+      "sha1": "c68e4065f83d69f87d960e6381c02c0b68da9914",
+      "size": 1941609
+    },
+    {
+      "path": "mods/caxton-0.6.4+1.21.1-NEOFORGE.jar",
+      "sha1": "016f6b7b6169935b3c50fe3abd0280497f73a8bb",
+      "size": 4708977
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "size": 410690
+    },
+    {
+      "path": "mods/deeperdarker-neoforge-1.21-1.3.4.jar",
+      "sha1": "e519bed972f9728af38f351c3dcffc1324e883bf",
+      "size": 17885687
+    },
+    {
+      "path": "mods/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
+      "sha1": "9491302950e20bec758f67f13ff21663ecf40986",
+      "size": 215920
+    },
+    {
+      "path": "mods/enchanted-vertical-slabs-2.3.2-neoforge-mc1.21.jar",
+      "sha1": "bf3cd9feb1b811ccbc7a84a54bf4f74d27d3d5c4",
+      "size": 268358
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.3.jar",
+      "sha1": "fb0ac6ad63dc5f401c15c66a037c08e9709d1c42",
+      "size": 622121
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha1": "a3e6355915c7d3b2bc392724795113e51d289378",
+      "size": 2438548
+    },
+    {
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.22.jar",
+      "sha1": "89d87fe77c3ce18d773740fe6ba106a287a008db",
+      "size": 73345885
+    },
+    {
+      "path": "mods/lionfishapi-2.6.jar",
+      "sha1": "3d9059ea05839e0daab926848d91ecb14ca5a4d4",
+      "size": 92312
+    },
+    {
+      "path": "mods/mobs_of_mythology-neoforge-1.21.1-2.2.2.jar",
+      "sha1": "6f9065389c94c272b734a7a3b92222efac72f644",
+      "size": 1096977
+    },
+    {
+      "path": "mods/mowziesmobs-1.21.1-1.7.5.jar",
+      "sha1": "f462b46d4bd3071708cebd4b06c16857ad593e22",
+      "size": 35260457
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
+      "size": 1221583
+    },
+    {
+      "path": "mods/princessaio-1.0.0-obf.jar",
+      "sha1": "0c4c0d6124797a660056c74bab6e10bc52c8f1af",
+      "size": 84797202
+    },
+    {
+      "path": "mods/princessmotion-1.0.0.jar",
+      "sha1": "d09a780d9bb58cc5a41c50198daf25462994f57d",
+      "size": 31865
+    },
+    {
+      "path": "mods/PrincessPhysicsCore-1.0.0.jar",
+      "sha1": "9d9bed2afb61e99abc0bf887487b41d274207b4c",
+      "size": 12690
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "sha1": "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2",
+      "size": 1080389
+    },
+    {
+      "path": "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836",
+      "size": 391053
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "sha1": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1",
+      "size": 1162994
+    },
+    {
+      "path": "mods/twilightforest-1.21.1-4.7.3196-universal.jar",
+      "sha1": "40ca8c589a45b28f1dfd4277005236f86c150312",
+      "size": 26580987
+    },
+    {
+      "path": "mods/undergroundworlds-neoforge-21.1.0.jar",
+      "sha1": "6c4952a3b76d722ee5d3ea6f97389c2315200bc6",
+      "size": 621515
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.10.jar",
+      "sha1": "29bc482100e09248a252fe6dd113b5744521e904",
+      "size": 4890349
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-26.5.0.jar",
+      "sha1": "7553dddbe478d1c8c15198090217e723d27f79c4",
+      "size": 2185559
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "sha1": "82b4ae6c0f2e13f02cbdc1325342909ed083fc24",
+      "size": 1422680
+    },
+    {
+      "path": "options.txt",
+      "sha1": "3387f9101be4399dad46be46b3873b05aed29ed6",
+      "size": 6615
+    },
+    {
+      "path": "resourcepacks/PrincessGUI-1.0.zip",
+      "sha1": "fa9035396060f860667893c3907d88fb7bc0caaa",
+      "size": 4412632
+    },
+    {
+      "path": "servers.dat",
+      "sha1": "183f225b9f8cb5b793041da20f7e1d8ae6b92585",
+      "size": 75
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+      "sha1": "52fdb332e6de592cceb8f85f2dc756eb78afab01",
+      "size": 456332
+    },
+    {
+      "path": "shaderpacks/Nostalgia_v5.1.zip",
+      "sha1": "c93900007773ce0314539461e26aa8faadf4aec9",
+      "size": 1842205
+    }
+  ]
+}

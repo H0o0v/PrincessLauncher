@@ -1,0 +1,10 @@
+{
+  "name": "Princess",
+  "minecraft": "1.21.1",
+  "loader": { "type": "neoforge", "version": "21.1.219" },
+  "server": { "host": "princessmc.kro.kr", "port": 31482 },
+  "theme": { "preset": "cozy" },
+  "newsUrl": "https://princess-news.hooooov.workers.dev/",
+  "managed": ["mods"],
+  "keep": ["config", "options.txt"]
+}
