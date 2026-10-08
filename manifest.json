@@ -383,8 +383,8 @@
     },
     {
       "path": "mods/princessaio-1.0.0-obf.jar",
-      "sha1": "4aa17db754be709b6f67915897fcc918f430c2eb",
-      "size": 84798324
+      "sha1": "f1cd5c9025886db2461b92db2c0923d6b5fab0a4",
+      "size": 84803409
     },
     {
       "path": "mods/princessmotion-1.0.0.jar",
@@ -393,8 +393,8 @@
     },
     {
       "path": "mods/PrincessPhysicsCore-1.0.0.jar",
-      "sha1": "9d9bed2afb61e99abc0bf887487b41d274207b4c",
-      "size": 12690
+      "sha1": "d7ce911433d3803c8c7de9cdd19e54916e7dfa3d",
+      "size": 16495
     },
     {
       "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
