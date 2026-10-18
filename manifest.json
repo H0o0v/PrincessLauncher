@@ -383,8 +383,8 @@
     },
     {
       "path": "mods/princessaio-1.0.0-obf.jar",
-      "sha1": "6465967277cf9d9a98ccef52e54f1420a8ba9cb5",
-      "size": 84887597
+      "sha1": "255e99620c5dd00e61a52cc1b9789dd07c039ae2",
+      "size": 84888951
     },
     {
       "path": "mods/princessmotion-1.0.0.jar",
@@ -440,6 +440,11 @@
       "path": "options.txt",
       "sha1": "3387f9101be4399dad46be46b3873b05aed29ed6",
       "size": 6615
+    },
+    {
+      "path": "princessaio/cutscene_cache/abyss_breach/abyss_breach.mp4",
+      "sha1": "a9190d6b721c4a45d2c70ea4e5ea8a6d4e0a6786",
+      "size": 8468208
     },
     {
       "path": "resourcepacks/PrincessGUI-1.0.zip",
